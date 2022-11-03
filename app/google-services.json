@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19386174235",
+    "project_id": "pcc-login-f0583",
+    "storage_bucket": "pcc-login-f0583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19386174235:android:c76dda03a8f1d0143fa1be",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19386174235-hilp6deg14hqe682nvel6ci7tu5hueui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX4FYmesOBgId-RV_zqq13f2zrjOIpf_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19386174235-hilp6deg14hqe682nvel6ci7tu5hueui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
